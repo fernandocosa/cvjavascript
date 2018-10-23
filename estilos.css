@@ -1,0 +1,27 @@
+#me {
+	background-color:olive;
+}
+
+body{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRM8pbs57-Q1yE4n6gimx44v_jmgz-Zn8TeOaqsgvRJFcmcRek") ;
+	/*background-attachment: fixed;*/
+	background-size: cover;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+        
+}
+
+#c{
+	background-color: olive;
+	font-family: 'PT Sans';
+}
+
+#expertise{
+	background-color: olive;
+}
+#habil{
+	font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 40px;
+}
