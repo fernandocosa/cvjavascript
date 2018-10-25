@@ -1,9 +1,10 @@
-#me {
-	background-color:olive;
+.me {
+	/*background-color:olive;
+	*/
 }
 
 body{
-	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRM8pbs57-Q1yE4n6gimx44v_jmgz-Zn8TeOaqsgvRJFcmcRek") ;
+	background-image: url("img/fondo.jpeg") ;
 	/*background-attachment: fixed;*/
 	background-size: cover;
         -moz-background-size: cover;
@@ -15,10 +16,26 @@ body{
 #c{
 	background-color: olive;
 	font-family: 'PT Sans';
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center
 }
 
 #expertise{
-	background-color: olive;
+	background-color: blue;
+	text-align: center;
+	margin-left: 27.5%;
+	border: solid black 2px;
+	border-radius: 6px;
+}
+#education{
+	background-color: red;
+	text-align: center;
+	border: solid black 2px;
+	margin-left: 27.5%;
+	border-radius: 6px;
+	
+	
 }
 #habil{
 	font-family: 'Open Sans';
